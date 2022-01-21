@@ -1,0 +1,213 @@
+{
+    "name": "corgibooks",
+    "title": "CorgiBooks",
+    "description": "<p>Shh. Corgi got the good shit.</p>",
+    "version": "v1.1",
+    "minimumCoreVersion": "0.5.0",
+    "author": "Corgi B!",
+    "packs": [
+        {
+            "name": "dmg-item",
+            "label": "DMG - Items",
+            "path": "packs/dmg-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "dmg-table",
+            "label": "DMG - Tables",
+            "path": "packs/dmg-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "erlw-actor",
+            "label": "ERLW - Actor",
+            "path": "packs/erlw-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "erlw-item",
+            "label": "ERLW - Item",
+            "path": "packs/erlw-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "mm-actor",
+            "label": "MM - Actor",
+            "path": "packs/mm-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "mm-table",
+            "label": "MM - Tables",
+            "path": "packs/mm-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "mtf-actor",
+            "label": "MTF - Actor",
+            "path": "packs/mtf-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "mtf-item",
+            "label": "MTF - Item",
+            "path": "packs/mtf-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "mtf-table",
+            "label": "MTF - Tables",
+            "path": "packs/mtf-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "phb-item",
+            "label": "PHB - Item",
+            "path": "packs/phb-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "phb-spells",
+            "label": "PHB - Spells",
+            "path": "packs/phb-spells.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "phb-table",
+            "label": "PHB - Tables",
+            "path": "packs/phb-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "scag-table",
+            "label": "SCAG - Tables",
+            "path": "packs/scag-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "tce-actor",
+            "label": "TCE - Actor",
+            "path": "packs/tce-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "tce-item",
+            "label": "TCE - Item",
+            "path": "packs/tce-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "tce-spells",
+            "label": "TCE - Spells",
+            "path": "packs/tce-spells.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "tce-table",
+            "label": "TCE - Tables",
+            "path": "packs/tce-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "vgm-actor",
+            "label": "VGM - Actor",
+            "path": "packs/vgm-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "vrgr-actor",
+            "label": "VRGR - Actor",
+            "path": "packs/vrgr-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "vrgr-item",
+            "label": "VRGR - Item",
+            "path": "packs/vrgr-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "vrgr-table",
+            "label": "VRGR - Tables",
+            "path": "packs/vrgr-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "xge-spells",
+            "label": "XGE - Spells",
+            "path": "packs/xge-spells.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "xge-table",
+            "label": "XGE - Tables",
+            "path": "packs/xge-table.db",
+            "entity": "RollTable",
+            "package": "corgibooks"
+        },
+		{
+            "name": "ftd-actor",
+            "label": "FTD - Actors",
+            "path": "packs/ftd-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "ftd-item",
+            "label": "FTD - Items",
+            "path": "packs/ftd-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "ftd-spells",
+            "label": "FTD - Spells",
+            "path": "packs/ftd-spells.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "scc-actor",
+            "label": "SCC - Actors",
+            "path": "packs/ftd-actor.db",
+            "entity": "Actor",
+            "package": "corgibooks"
+        },
+		{
+            "name": "scc-item",
+            "label": "SCC - Items",
+            "path": "packs/ftd-item.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        },
+		{
+            "name": "scc-spells",
+            "label": "SCC - Spells",
+            "path": "packs/ftd-spells.db",
+            "entity": "Item",
+            "package": "corgibooks"
+        }
+    ]
+}
