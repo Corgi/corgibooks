@@ -191,21 +191,21 @@
 		{
             "name": "scc-actor",
             "label": "SCC - Actors",
-            "path": "packs/ftd-actor.db",
+            "path": "packs/scc-actor.db",
             "entity": "Actor",
             "package": "corgibooks"
         },
 		{
             "name": "scc-item",
             "label": "SCC - Items",
-            "path": "packs/ftd-item.db",
+            "path": "packs/scc-item.db",
             "entity": "Item",
             "package": "corgibooks"
         },
 		{
             "name": "scc-spells",
             "label": "SCC - Spells",
-            "path": "packs/ftd-spells.db",
+            "path": "packs/scc-spells.db",
             "entity": "Item",
             "package": "corgibooks"
         }
